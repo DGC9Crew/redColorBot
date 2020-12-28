@@ -1,6 +1,6 @@
 # redColorBot
 
-This program is a Java program demonstrating the previous program of a single-layer perceptron neural network in action.
+This program is a Java program made with the jMonkeyEngine demonstrating the previous program of a single-layer perceptron neural network in action.
 
 In this program, you see a 3D cube with a color, which could either be *maybe red* or *maybe another color*. You must state what color it is by pressing Y or N.
 This will be treated as training data for the neural network, and it will then guess the color, learning depending of it got it wrong or right. 
