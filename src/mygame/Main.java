@@ -135,6 +135,9 @@ public class Main extends SimpleApplication {
         setDisplayFps(false);
         setDisplayStatView(false);
         flyCam.setEnabled(false);
+        
+        //im about to pull a pro strat called "copy and pasting"
+        
         whatYouSaid = new BitmapText(guiFont, false);
         whatYouSaid.setSize(guiFont.getCharSet().getRenderedSize());      // font size
         whatYouSaid.setColor(ColorRGBA.Red);                             // font color
