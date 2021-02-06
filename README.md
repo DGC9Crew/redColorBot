@@ -1,4 +1,4 @@
-# redColorBot
+# Red Color Bot
 
 This program is a Java program made with the jMonkeyEngine demonstrating the previous program of a single-layer perceptron neural network in action.
 
