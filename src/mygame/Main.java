@@ -14,11 +14,6 @@ import com.jme3.ui.Picture;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * This is the Main Class of your Game. You should only do initialization here.
- * Move your Logic into AppStates or Controls
- * @author normenhansen
- */
 public class Main extends SimpleApplication {
     Random rand = new Random();
      float lr = 1;
